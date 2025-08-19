@@ -1,11 +1,11 @@
 <img src="https://github.com/Marvy-ctrl/Marvy-ctrl/blob/main/profile_image.png">
 
-🔭 I’m currently working as a Freelancer
-🌱 I’m currently learning Data Analytics, AI/ML, and Cybersecurity
-💻 I’m a Frontend Developer passionate about building clean and user-friendly web apps
-👯 I’m looking to collaborate on Data Analysis, Automation, and Web Scraping projects
-🤔 I’m open to help with Data Analysis workflows, Automation scripts, and Frontend Dev challenges
-💬 Ask me about anything related to JavaScript, Python, or Frontend Development
+- 🔭 I’m currently working as a Freelancer
+- 🌱 I’m currently learning Data Analytics, AI/ML, and Cybersecurity
+- 💻 I’m a Frontend Developer passionate about building clean and user-friendly web apps
+- 👯 I’m looking to collaborate on Data Analysis, Automation, and Web Scraping projects
+- 🤔 I’m open to help with Data Analysis workflows, Automation scripts, and Frontend Dev challenges
+- 💬 Ask me about anything related to JavaScript, Python, or Frontend Development
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-popoolamarvellous51-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:popoolamarvellous51@gmail.com)](mailto:popoolamarvellous51@gmail.com)
  
 - ⚡ Fun fact: am young and a passionate programmer, i tend to learn always.
