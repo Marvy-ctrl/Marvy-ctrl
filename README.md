@@ -1,37 +1,33 @@
 <img src="https://github.com/Marvy-ctrl/Marvy-ctrl/blob/main/profile_image.png">
 
-- 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently learning Data analytics,AI,ML, Cyber security 
-- 👯 I’m looking to collaborate on a data analysis related task
-- 🤔 I’m looking for help with work on data analysis  and web scrapping and automation job
-- 💬 Ask me about anything related to javascript/python
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-lacklux-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:lacklux35@gmail.com)](mailto:lacklux35@gmail.com) 
+🔭 I’m currently working as a Freelancer
+🌱 I’m currently learning Data Analytics, AI/ML, and Cybersecurity
+💻 I’m a Frontend Developer passionate about building clean and user-friendly web apps
+👯 I’m looking to collaborate on Data Analysis, Automation, and Web Scraping projects
+🤔 I’m open to help with Data Analysis workflows, Automation scripts, and Frontend Dev challenges
+💬 Ask me about anything related to JavaScript, Python, or Frontend Development
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-popoolamarvellous51-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:popoolamarvellous51@gmail.com)](mailto:popoolamarvellous51@gmail.com)
+ 
 - ⚡ Fun fact: am young and a passionate programmer, i tend to learn always.
 
 <p align="center">
-  <a href="https://twitter.com/AzDeveloper1" target="_blank">
+<a href="https://x.com/PopoolaMar54738" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/azeez-olayiwola-b057031b9" target="_blank">
+</a>
+
+<a href="https://www.linkedin.com/in/marvellous-popoola-80a1b42b6/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
- 
-  <a href="https://medium.com/@sprydeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
-  </a>
-  <a href="https://www.facebook.com/azeez.olayiwola.182" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
-    
+</a>
 </p>
 
 
 ## I can work confortable with the following technologies:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,django,selenium,html,css,mysql,linux,tensorflow" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,django,selenium,html,css,mysql,linux,tensorflow" />
+</a>
+
 </p>
 
 
