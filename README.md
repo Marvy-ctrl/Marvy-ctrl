@@ -1,7 +1,7 @@
 <img src="https://github.com/Marvy-ctrl/Marvy-ctrl/blob/main/Intro_image">
 
 - 🔭 I’m currently working as a Freelancer
-- 🌱 I’m currently learning Data Analytics, AI/ML, and Cybersecurity
+- 🌱 I’m currently learning Data Analytics, AI/ML.
 - 💻 I’m a Frontend Developer passionate about building clean and user-friendly web apps
 - 👯 I’m looking to collaborate on Data Analysis, Automation, and Web Scraping projects
 - 🤔 I’m open to help with Data Analysis workflows, Automation scripts, and Frontend Dev challenges
