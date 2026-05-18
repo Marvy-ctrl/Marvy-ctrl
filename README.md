@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Popoola Marvellous (Marvel)</h1>
-<h3 align="center">A Computer Science student, software developer & AI/ML enthusiast from Nigeria 🚀</h3>
+<h3 align="center">A Computer Science student, software developer & AI/ML enthusiast from Nigeria </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marvy-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="Marvy-ctrl" />
@@ -13,12 +13,12 @@
 
 ---
 
-- 🎓 Currently studying **B.Sc. Computer Science** at the University of Ilorin, Nigeria  
-- 💻 Passionate about **Web Development, Cybersecurity, and Machine Learning**  
-- 🧠 Building projects that combine **automation, data analysis & AI**  
-- 🛠️ Tech Stack: **Python, JavaScript, React, Next.js, Tailwind CSS**   
-- 📬 Reach me at **popoolamarvellous51@gmail.com**  
-- ✍️ Sometimes writing about my **learning journey in ML & software dev**  
+- Currently studying **B.Sc. Computer Science** at the University of Ilorin, Nigeria  
+- Passionate about **Web Development, Cybersecurity, and Machine Learning**  
+- Building projects that combine **automation, data analysis & AI**  
+- Tech Stack: **Python, JavaScript, React, Next.js, Tailwind CSS**   
+- Reach me at **popoolamarvellous51@gmail.com**  
+- Sometimes writing about my **learning journey in ML & software dev**  
 
 ---
 
