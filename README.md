@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Popoola Marvellous (Marvel)</h1>
+<h1 align="center">Hi, I'm Popoola Marvellous (Marvel)</h1>
 <h3 align="center">A Computer Science student, software developer & AI/ML enthusiast from Nigeria </h3>
 
 <p align="center">
